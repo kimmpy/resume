@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1708414298 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1708414299 0
-  "/Users/kim/Documents/GitHub/resume/resume.tex" 1707711424 1789 e4c7476de72ee9f08f357f1a92fed976 ""
+["pdflatex"] 1709194232 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1709194233 0
+  "/Users/kim/Documents/GitHub/resume/resume.tex" 1709194090 1813 9b81c01c0bd028ed11c59bf5d0c732d4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
@@ -123,14 +123,13 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "TLCresume.sty" 1707711358 1685 55b742a35ab35e2b9a33182127a1b879 ""
   "_header.tex" 1707711336 846 4d12cb0610b8f2fc113ec63b80a29757 ""
-  "resume.aux" 1708414299 1822 19ea9418185f74f32ef002ea1d32efe7 "pdflatex"
-  "resume.out" 1708414299 2018 11a562bf44c218ab43d6a60ab147d3c4 "pdflatex"
-  "resume.tex" 1707711424 1789 e4c7476de72ee9f08f357f1a92fed976 ""
+  "resume.aux" 1709194233 2191 eb11eb6aeaccdeec7437ab1065e350b9 "pdflatex"
+  "resume.out" 1709194233 2865 bc4adfd33347bb4b868dc757976da37b "pdflatex"
+  "resume.tex" 1709194090 1813 9b81c01c0bd028ed11c59bf5d0c732d4 ""
   "sections/activities.tex" 1708407647 425 c08ae0460ffac26aa8219abd51dcb473 ""
   "sections/education.tex" 1707711799 352 e1005165163fcc0cee97541aa0e19397 ""
-  "sections/experience.tex" 1708414298 2745 2d2240a285fbf115cf4fde90b4a99c8e ""
-  "sections/objective.tex" 1707711321 82 91e525b6569f8a19d794671869b0828b ""
-  "sections/skills.tex" 1707711893 295 30a3f53a51f330f81b61a872612282aa ""
+  "sections/experience.tex" 1709194231 3844 44cd191f8979b642d64f96e8c595afd1 ""
+  "sections/skills.tex" 1709193556 327 7034a48db88f2c301a473054a0c7831a ""
   (generated)
   "resume.aux"
   "resume.log"

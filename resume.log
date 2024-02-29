@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.11)  19 FEB 2024 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.11)  29 FEB 2024 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -597,7 +597,6 @@ Package hyperref Info: Link coloring ON on input line 44.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
- (./sections/objective.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 47.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
@@ -625,10 +624,6 @@ Overfull \hbox (7.97499pt too wide) in paragraph at lines 1--49
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 4.
 
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 5.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 5.
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 6.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
@@ -640,15 +635,27 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 17.
+(hyperref)                removing `\hfill' on input line 15.
+
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 16.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 16.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 26.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 29.
+(hyperref)                removing `\hfill' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 40.
+(hyperref)                removing `\hfill' on input line 51.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 62.
 
 ) (./sections/education.tex) (./sections/activities.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
@@ -667,21 +674,21 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 11A562BF44C218AB43D6A60AB147D3C4;2018.
+(rerunfilecheck)             Checksum: BC4ADFD33347BB4B868DC757976DA37B;2865.
  ) 
 Here is how much of TeX's memory you used:
- 14568 strings out of 476025
- 243073 string characters out of 5790017
- 1877388 words of memory out of 5000000
- 34743 multiletter control sequences out of 15000+600000
+ 14566 strings out of 476025
+ 242992 string characters out of 5790017
+ 1881388 words of memory out of 5000000
+ 34742 multiletter control sequences out of 15000+600000
  590249 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,11n,134p,569b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (1 page, 176288 bytes).
+Output written on resume.pdf (1 page, 176513 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
