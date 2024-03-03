@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1709500665 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1709500666 0
-  "/Users/kim/Documents/GitHub/resume/resume.tex" 1709500621 1797 d8d2fec68711338c388cbe5ab58f30ac ""
+["pdflatex"] 1709500820 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1709500821 0
+  "/Users/kim/Documents/GitHub/resume/resume.tex" 1709500802 1798 38428df91dae9e794d45a7ec169b3a58 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
@@ -122,12 +122,12 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1707698395 7883458 882678461252494b2746b68d38363a5d ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "TLCresume.sty" 1709499060 1685 fdbe8e5b78d803fc2323dcf7163e01d9 ""
-  "_header.tex" 1709498132 799 bd9b2df5579e96dc0fa3c93e01cd4660 ""
-  "resume.aux" 1709500666 2206 a4ae56808bbe9623961e884331846edb "pdflatex"
-  "resume.out" 1709500666 2949 fd950c30ec16f964508fffdf7d86195a "pdflatex"
-  "resume.tex" 1709500621 1797 d8d2fec68711338c388cbe5ab58f30ac ""
+  "_header.tex" 1709500820 800 af6c41b770f29ba1f2a51c85d6cd9987 ""
+  "resume.aux" 1709500821 2206 a4ae56808bbe9623961e884331846edb "pdflatex"
+  "resume.out" 1709500821 2949 fd950c30ec16f964508fffdf7d86195a "pdflatex"
+  "resume.tex" 1709500802 1798 38428df91dae9e794d45a7ec169b3a58 ""
   "sections/activities.tex" 1709499820 626 08c4546e6ba9a5a274969c5792d4b405 ""
-  "sections/education.tex" 1709500665 670 4cf4fb8154032002ee74d812cb88d92e ""
+  "sections/education.tex" 1709500720 670 4cf4fb8154032002ee74d812cb88d92e ""
   "sections/experience.tex" 1709500621 3321 77180c059665ce9f65b3f616f0cbc9a1 ""
   "sections/skills.tex" 1709500652 327 502698cf7419f3024681d3c62313eda0 ""
   (generated)
