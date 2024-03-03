@@ -899,12 +899,12 @@ INPUT sections/experience.tex
 INPUT ./sections/experience.tex
 INPUT ./sections/experience.tex
 INPUT sections/experience.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm
 INPUT ./sections/education.tex
 INPUT ./sections/education.tex
 INPUT ./sections/education.tex
@@ -933,11 +933,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSan
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Semibold-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Semibold-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT resume.aux
 INPUT ./resume.out
 INPUT ./resume.out

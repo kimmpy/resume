@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1709194232 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1709194233 0
-  "/Users/kim/Documents/GitHub/resume/resume.tex" 1709194090 1813 9b81c01c0bd028ed11c59bf5d0c732d4 ""
+["pdflatex"] 1709500003 "/Users/kim/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1709500004 0
+  "/Users/kim/Documents/GitHub/resume/resume.tex" 1709498352 1797 514b41a005c9c589c39a607594618392 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587936753 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
@@ -121,14 +121,14 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1707698532 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1707698395 7883458 882678461252494b2746b68d38363a5d ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "TLCresume.sty" 1707711358 1685 55b742a35ab35e2b9a33182127a1b879 ""
-  "_header.tex" 1707711336 846 4d12cb0610b8f2fc113ec63b80a29757 ""
-  "resume.aux" 1709194233 2191 eb11eb6aeaccdeec7437ab1065e350b9 "pdflatex"
-  "resume.out" 1709194233 2865 bc4adfd33347bb4b868dc757976da37b "pdflatex"
-  "resume.tex" 1709194090 1813 9b81c01c0bd028ed11c59bf5d0c732d4 ""
-  "sections/activities.tex" 1708407647 425 c08ae0460ffac26aa8219abd51dcb473 ""
-  "sections/education.tex" 1707711799 352 e1005165163fcc0cee97541aa0e19397 ""
-  "sections/experience.tex" 1709194231 3844 44cd191f8979b642d64f96e8c595afd1 ""
+  "TLCresume.sty" 1709499060 1685 fdbe8e5b78d803fc2323dcf7163e01d9 ""
+  "_header.tex" 1709498132 799 bd9b2df5579e96dc0fa3c93e01cd4660 ""
+  "resume.aux" 1709500004 2014 97184ba942fbed6ac90f696f58d0e4b7 "pdflatex"
+  "resume.out" 1709500004 2483 167ef389cf14a8848bb16ff83355c132 "pdflatex"
+  "resume.tex" 1709498352 1797 514b41a005c9c589c39a607594618392 ""
+  "sections/activities.tex" 1709499820 626 08c4546e6ba9a5a274969c5792d4b405 ""
+  "sections/education.tex" 1709500003 671 317d92f4ed872584360d3efc719c1031 ""
+  "sections/experience.tex" 1709498926 2930 bfcd0fc78327007e3ee517121988d39e ""
   "sections/skills.tex" 1709193556 327 7034a48db88f2c301a473054a0c7831a ""
   (generated)
   "resume.aux"
